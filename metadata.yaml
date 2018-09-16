@@ -1,5 +1,8 @@
 _repo: The-Brownie-Scouts-in-the-Circus_51745
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51745-h/images/cover.jpg
 creator:
   author:
     agent_name: Wirt, Mildred A. (Mildred Augustine)
@@ -17,6 +20,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/c#a36376
     - http://en.wikipedia.org/wiki/Mildred_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51745#The-Brownie-Scouts-in-the-Circus
 gutenberg_issued: '2016-04-12'
 gutenberg_type: Text
 identifiers:
